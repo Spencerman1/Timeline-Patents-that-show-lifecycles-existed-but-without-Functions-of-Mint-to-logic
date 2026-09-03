@@ -1,5 +1,7 @@
 # Timeline-Patents-that-show-lifecycles-existed-but-without-Functions-of-Mint-to-logic
 
+Ready to go 3 part article
+
 Inside is a play by play analysis showing why these patents are not proof WO2020236638A1 patent did not have lifecycle function in 2020
 
 ⚠️ PROPRIETARY RIGHTS NOTICE All materials contained in this repository are the proprietary property of Southern Star Pro Studios L.L.C. and are protected under United States and international copyright, trade secret, and intellectual property laws.
